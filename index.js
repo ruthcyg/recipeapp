@@ -1,6 +1,9 @@
 /**
  * @format
  */
+import 'react-native-gesture-handler';
+import 'react-native-safe-area-context';
+import 'react-native-screens';
 
 import {AppRegistry} from 'react-native';
 import App from './App';
